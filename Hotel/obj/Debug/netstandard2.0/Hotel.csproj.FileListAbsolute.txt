@@ -1,0 +1,9 @@
+C:\Users\study\Desktop\prav2_2\Hotel\bin\Debug\netstandard2.0\Hotel.deps.json
+C:\Users\study\Desktop\prav2_2\Hotel\bin\Debug\netstandard2.0\Hotel.dll
+C:\Users\study\Desktop\prav2_2\Hotel\bin\Debug\netstandard2.0\Hotel.pdb
+C:\Users\study\Desktop\prav2_2\Hotel\obj\Debug\netstandard2.0\Hotel.csprojAssemblyReference.cache
+C:\Users\study\Desktop\prav2_2\Hotel\obj\Debug\netstandard2.0\Hotel.AssemblyInfoInputs.cache
+C:\Users\study\Desktop\prav2_2\Hotel\obj\Debug\netstandard2.0\Hotel.AssemblyInfo.cs
+C:\Users\study\Desktop\prav2_2\Hotel\obj\Debug\netstandard2.0\Hotel.csproj.CoreCompileInputs.cache
+C:\Users\study\Desktop\prav2_2\Hotel\obj\Debug\netstandard2.0\Hotel.dll
+C:\Users\study\Desktop\prav2_2\Hotel\obj\Debug\netstandard2.0\Hotel.pdb
